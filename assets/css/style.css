@@ -135,6 +135,7 @@ header nav ul li p {
 footer {
     padding: 30px;
     clear: both;
+    background-color: #2a607c;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
