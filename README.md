@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Purpose
-A website that offers web-based marketing solutions.
+A website that offers web-based marketing solutions, specializing in search engine optimization, online reputation management, and social media marketing tools.
 
 ## Built With:
 HTML
